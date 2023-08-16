@@ -1,4 +1,5 @@
 # Travel-List
 Travel list app using React
-![Screenshot (24)](https://github.com/faizanwaniiQuasar/Travel-List/assets/129840881/1e066883-7e84-4aa0-9d6b-3ff56b2799fb)
-![Screenshot (25)](https://github.com/faizanwaniiQuasar/Travel-List/assets/129840881/3bc1e246-4bab-4d4a-b7dd-4a41de64d071)
+![Screenshot (26)](https://github.com/faizanwaniiQuasar/Travel-List/assets/129840881/3696afbc-feb3-49ab-9360-281c050ce764)
+
+![Screenshot (27)](https://github.com/faizanwaniiQuasar/Travel-List/assets/129840881/aa2e6256-fd6a-4543-99a7-1b40aac1bcbd)
